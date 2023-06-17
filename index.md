@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# My blog
 
+This is my modest attempt at creating a blog.
